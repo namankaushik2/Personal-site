@@ -1,0 +1,129 @@
+  body{
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Alegreya', serif
+    line-height: 2;
+    font-size: 20px;
+    background-color: #f9f9f9;
+  }
+
+  .top-container{
+    margin-top: 0;
+    background-color: #E4F9F5;
+    padding-top: 50px;
+  }
+  h4{ font-weight: bold;
+    font-size: 30px;
+    color: #66BFBF;
+    margin-bottom: 0;
+    font-family: 'Tangerine', serif;
+}
+.intro{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+  h1{
+    font-weight: bold;
+    font-size: 90px;
+    color: #66BFBF;
+    margin-bottom: 0;
+    font-family: 'Tangerine', serif;
+  }
+  h2{
+    font-family: 'montserrat', sans-serif;
+    font-size: 30PX;
+    color: #66bfbf;
+    padding-bottom: 10px;
+  }
+  h3{
+    color: #11999e;
+    font-family: 'montserrat', sans-serif;
+  }
+  .top-cloud{
+    position: absolute;
+    right: 340px;
+    top: 75PX;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 250px;
+
+  }
+  .profile-pic{
+    margin-top: 30px;
+  height: 250px;
+  width: 250px;
+    border-radius: 100%;
+  }
+  .profile-pic:hover{
+    background-color: #E4F9F5;
+
+  }
+  .skills-pic{
+    margin-right: 30px;
+    float: left;
+    height: 200px;
+    width: 220px;
+     border-radius: 100%;
+  }
+  hr {
+      background-color: none;
+      width: 5%;
+      border-color: grey;
+      border-width: 5px;
+      border-style: none;
+      border-top-style: dotted;
+    }
+  .skills-pic2{
+    margin-left: 20px;
+    float: right;
+    height: 200px;
+    width: 220px;
+     border-radius: 100%;
+  }
+  .skill-row{
+    font-weight: 300;
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+  }
+.bottom-container{
+  padding-top: 30px;
+  margin-top: 30px;
+  height: 80px;
+  background-color: #66bfbf;
+}
+a{
+  color: #11999e;
+  margin: 10px 20px;
+text-decoration: none;
+  }
+  a:hover{
+    color: #eaf6f6;
+  }
+  .myButton {
+  	background-color:#1fdbdb;
+  	border-radius:24px;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Arial;
+  	font-size:18px;
+  	font-weight:bold;
+  	padding:16px 31px;
+  	text-decoration:none;
+  	text-shadow:0px 1px 7px #2f6627;
+  }
+  .myButton:hover {
+  	background-color:#3bf7de;
+  }
+  .myButton:active {
+  	position:relative;
+  	top:1px;
+  }
+  .copyright{
+    color: #eaf6f6;
+  }
